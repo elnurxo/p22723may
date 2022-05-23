@@ -6,7 +6,7 @@ namespace _27MayPractise
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello P227!");
+            Console.WriteLine("Hello P227 everyone!");
         }
     }
 }
